@@ -1,0 +1,16 @@
+algoritmo "lista 6 ex 6"
+// Autor :Matheus Teixeira e Isis Reis
+// Data : 08/09/2016
+// Seção de Declarações 
+var
+b,deno,R:Real
+inicio
+Escreval("Diga um numerador:")
+leia(b)
+Escreval("Diga um denominador:")
+leia(deno)
+R<-b^deno
+Escreval("Seus resultados são:",b^deno)
+
+
+fimalgoritmo
