@@ -1,0 +1,18 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 14/07/2016
+// Seção de Declarações 
+var
+n:inteiro
+inicio
+// Seção de Comandos
+escreval("Informe um número positivo ou negativo")
+leia(n)
+se(n>0)entao
+escreval(n)
+senao
+escreval(n*-1)
+fimse
+
+fimalgoritmo

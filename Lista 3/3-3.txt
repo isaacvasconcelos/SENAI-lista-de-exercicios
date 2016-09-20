@@ -1,0 +1,18 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 14/07/2016
+// Seção de Declarações 
+var
+n , resto : inteiro
+inicio
+// Seção de Comandos
+escreva ("Diga um número:")
+leia(n)
+resto<-n%2
+se(resto=0) entao
+escreva("O número é Par:")
+senao
+escreva("O número é Impar:")
+fimse
+fimalgoritmo
