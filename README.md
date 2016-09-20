@@ -1,6 +1,7 @@
+(https://img.shields.io/teamcity/codebetter/bt428.svg)
 # Listas de exercícios do curso do SENAI Maracanã.
 
-  - Temos o dever de colocar todas as listas dos exercícios prontos para fins de estudos.
+- Temos o dever de colocar todas as listas dos exercícios prontos para fins de estudos.
  - Tenha total sabedoria de que quando você está copiando o código você não estra aprendendo e sim se enganando.
 
 ## Regras
