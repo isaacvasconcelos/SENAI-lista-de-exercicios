@@ -5,6 +5,6 @@
 
 ## Regras
 
-  - Todos os arquivos devem ta em .txt e devem estar separadas por questão
+  - Todos os arquivos devem ta em .txt, devem estar separadas por questão e nomeadas da seguinte maneira: questão-lista
 
   - Na parte superior do repositório de um ´star´ no repositório e siga os criadores do projeto [GiovanniSM20](https://github.com/GiovanniSM20) e [JotaPe](https://github.com/JotaPe).
