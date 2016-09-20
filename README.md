@@ -1,4 +1,5 @@
-
+<img
+src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-Senai-Caruaru-PB-201400.png" align="left" width="300px" height="144px"/>
 
 # Listas de exercícios do curso do SENAI Maracanã.
 
