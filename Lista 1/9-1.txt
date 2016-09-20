@@ -1,0 +1,21 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 14/07/2016
+// Seção de Declarações 
+var
+n:inteiro
+inicio
+// Seção de Comandos
+escreval("Informe um número")
+leia(n)
+se(n>=1) entao
+escreval("positivo")
+senao
+se(n<0)entao
+escreval("negativo")
+senao
+escreval("nulo")
+fimse
+fimse
+fimalgoritmo
