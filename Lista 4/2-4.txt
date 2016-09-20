@@ -1,0 +1,24 @@
+algoritmo "Questão 02-(04)"
+// Função :
+// Autor :
+// Data : 21/07/2016
+// Seção de Declarações 
+var
+   x, y, count : inteiro
+   
+inicio
+// Seção de Comandos 
+   x <- 1
+   y <- 1
+   enquanto (x < 100)faca
+            x <- x+1
+            y <- y+x
+            escreval (y)
+            
+   fimenquanto
+   
+fimalgoritmo
+
+
+
+

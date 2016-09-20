@@ -1,0 +1,22 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 21/07/2016
+// Seção de Declarações 
+var
+   n: inteiro
+
+inicio
+// Seção de Comandos 
+   escreva ("Insira um numero")
+   leia (n)
+   
+   se (n < 50)entao
+      enquanto (n < 250)faca
+               n <- n * 3
+               se (n < 250)entao
+                  escreval (n)
+               fimse
+      fimenquanto
+   fimse
+fimalgoritmo

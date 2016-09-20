@@ -1,0 +1,36 @@
+algoritmo "Questão 12-(04)"
+// Função :
+// Autor :
+// Data : 25/08/2016
+// Seção de Declarações 
+var
+N,Maior,Menor,Soma,Cont:inteiro
+Media :Real
+inicio
+// Seção de Comandos 
+Enquanto N<>-1 faca
+Escreval("Informe um valor inteiro (-1 encerra o processo):")
+Leia(N)
+Se N<>-1 entao
+Se cont =0 entao
+Maior:=N
+Menor:=N
+Fimse
+Se Menor>N entao
+Menor:=N
+Fimse
+Se maior< N entao
+Maior:= N
+Fimse
+Soma:=Soma+N
+Cont:=Cont+1
+fimse
+fimenquanto
+Limpatela
+Media:=Soma/Cont
+Escreval("O maior número informado foi:",Maior)
+Escreval("O menor número informado foi:",Menor)
+Escreval("A medía de todos os números informados foram",Media:2:2)
+
+
+fimalgoritmo

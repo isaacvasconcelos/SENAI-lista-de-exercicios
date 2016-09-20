@@ -1,0 +1,18 @@
+algoritmo "Questão 08-(04)"
+// Função :
+// Autor :
+// Data : 26/07/2016
+// Seção de Declarações 
+var
+cont:real
+inicio
+// Seção de Comandos 
+enquanto cont<=15 faca
+escreval("3 elevado a " , cont , " = " , 3 ^ cont)
+cont:=cont+1
+
+
+
+
+fimenquanto
+fimalgoritmo
