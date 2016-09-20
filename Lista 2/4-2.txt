@@ -1,0 +1,26 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 12/07/2016
+// Seção de Declarações 
+var
+n1,n2,soma,sub1,sub2,mult,divi, rest:real
+inicio
+// Seção de Comandos
+escreva("informe um número")
+leia(n1)
+escreva("informe um número")
+leia(n2)
+soma<-n1+n2
+sub1<-n1-n2
+sub2<-n2-n1
+mult<-n1*n2
+divi<-n1/n2
+rest<-n1%n2
+escreval("soma", soma)
+escreval("subtração do primero pelo segundo", sub1)
+escreval("subtração do segundo pelo primeiro", sub2)
+escreval("multiplicação", mult)
+escreval("divisão do primeiro pelo segundo", divi)
+escreval(" resto da divisão do primeiro pelo segundo", rest)
+fimalgoritmo

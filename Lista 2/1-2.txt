@@ -1,0 +1,14 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 12/07/2016
+// Seção de Declarações 
+var
+v,vfinal:real
+inicio
+// Seção de Comandos
+escreva("Informe o valor da conta")
+leia(v)
+vfinal<-(v*10/100)+v
+escreva("o valor final da conta é",vfinal)
+fimalgoritmo
