@@ -1,0 +1,36 @@
+algoritmo "Questão 15"
+// Função :
+// Autor : isis
+// Data : 15/09/2016
+// Seção de Declarações 
+var
+ n : caracter
+ s, aliquota, saliq : real
+ cont : inteiro
+inicio
+// Seção de Comandos 
+   para cont de 1 ate 10 passo 1 faca
+escreval ("Coloque seu nome: ")
+leia (n)
+escreval ("Coloque o salário bruto: ")
+leia (s)
+
+se (s < 600) entao
+   aliquota <- 0
+senao
+     se ( s < 1500) entao
+     aliquota <- s - (s * 10 / 100)
+              senao
+     aliquota <- s - (s * 15/100)
+     fimse
+fimse
+
+escreval ("Funcionários: ", n)
+escreval ("Salário Bruto: ", s)
+escreval ("Alíquota de desconto do IRPF: ")
+
+saliq <- s - aliquota
+escreval ("Salário Líquido: ", saliq)
+
+fimpara
+fimalgoritmo

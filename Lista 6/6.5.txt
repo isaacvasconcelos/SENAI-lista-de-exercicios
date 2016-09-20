@@ -1,0 +1,14 @@
+algoritmo "Lista 6 ex 5"
+// Autor :
+// Data : 08/09/2016
+// Seção de Declarações 
+var
+  y : inteiro
+inicio
+// Seção de Comandos
+y<-0
+para y 0 ate 10 passo 1 faca
+escreval (2^y)
+fimpara
+ 
+fimalgoritmo

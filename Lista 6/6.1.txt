@@ -1,0 +1,13 @@
+algoritmo "Lista 6 ex 1"
+// Autor :
+// Data : 08/09/2016
+// Seção de Declarações
+var
+cont : inteiro
+inicio
+para cont de 1000 ate 1500 faca
+se cont mod 2=1 entao
+escreval (cont)
+fimse
+fimpara
+fimalgoritmo
