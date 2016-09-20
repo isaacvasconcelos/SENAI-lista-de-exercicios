@@ -1,0 +1,19 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 14/07/2016
+// Seção de Declarações 
+var
+n : real
+inicio
+// Seção de Comandos
+escreva("Informe um número:")
+leia(n)
+se(n>20) entao
+escreva ("A metade de ",n,"é",n/2)
+senao
+escreva("O número informado é",n)
+fimse
+fimalgoritmo
+
+
