@@ -1,6 +1,8 @@
 <img
 src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-Senai-Caruaru-PB-201400.png" align="left" width="250px" height="144px"/>
 
+[![MIT License](https://img.shields.io/wercker/ci/wercker/docs.svg)]
+
 ### Listas de exercícios do curso do SENAI Maracanã.
 > Uma tentativa de ajudar os alunos que não conseguem fazer os exercícios
 
