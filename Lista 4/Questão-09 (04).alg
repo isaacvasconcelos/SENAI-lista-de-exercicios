@@ -1,0 +1,16 @@
+algoritmo "Questão 9-(04)"
+// Função :
+// Autor :
+// Data : 21/07/2016
+// Seção de Declarações 
+var
+x,y:inteiro
+inicio
+// Seção de Comandos
+escreval("Informe uma base:")
+leia(x)
+escreval("Informe um expoente:")
+leia(y)
+escreval("a pontecia é:",x^y)
+ 
+fimalgoritmo

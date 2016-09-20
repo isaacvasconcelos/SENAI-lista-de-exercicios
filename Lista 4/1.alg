@@ -1,0 +1,20 @@
+algoritmo "Questão 01-(04)"
+// Função :
+// Autor :
+// Data : 21/07/2016
+// Seção de Declarações 
+var
+  x,resto: inteiro
+inicio
+// Seção de Comandos
+   x <-0
+   
+   enquanto (x <= 20)faca
+   resto <- x % 2
+            se (resto = 1)entao
+               escreval (x)
+            fimse
+            
+   x <- x + 1
+   fimenquanto
+fimalgoritmo
