@@ -1,5 +1,5 @@
 algoritmo "semnome"
-// Funçãoo :
+// Função :
 // Autor :
 // Data : 14/07/2016
 // Se��o de Declara��es
