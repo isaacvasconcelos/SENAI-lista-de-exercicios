@@ -6,6 +6,8 @@ src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-S
 ### Listas de exercícios do curso do SENAI Maracanã.
 > Uma tentativa de ajudar os alunos que não conseguem fazer os exercícios
 
+<br/>
+
 - Temos o dever de colocar todas as listas dos exercícios prontos para fins de estudos.
  - Tenha total sabedoria de que quando você está copiando o código você não estra aprendendo e sim se enganando.
 
