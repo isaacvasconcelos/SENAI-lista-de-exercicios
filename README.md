@@ -10,7 +10,6 @@ src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-S
 
 ## E-mail a ser enviado:
  - thatabat@gmail.com
- - 
 
 - Temos o dever de colocar todas as listas dos exercícios prontos para fins de estudos.
  - Tenha total sabedoria de que quando você está copiando o código você não estra aprendendo e sim se enganando.
