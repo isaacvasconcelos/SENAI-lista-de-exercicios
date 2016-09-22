@@ -3,7 +3,7 @@ src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-S
 
 ![https://github.com/GiovanniSM20/SENAI-lista-de-exercicios](https://img.shields.io/wercker/ci/wercker/docs.svg)
 
-# Listas de exercícios do curso do SENAI Maracanã.
+## Listas de exercícios do curso do SENAI Maracanã.
 > Uma tentativa de ajudar os alunos que não conseguem fazer os exercícios
 
 <br/>
