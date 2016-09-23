@@ -9,7 +9,7 @@ src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-S
 <br/>
 
 ## E-mail a ser enviado:
- - thatabat@gmail.com
+ - thatabat@outlook.com
 
 ## Importante:
 
