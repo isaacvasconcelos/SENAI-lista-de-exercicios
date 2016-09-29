@@ -1,0 +1,19 @@
+algoritmo "semnome"
+// Função :
+// Autor : Pedro Santos de Oliveira
+// Data : 29/09/2016
+// Seção de Declarações
+var
+N, R: inteiro
+inicio
+// Seção de Comandos
+Escreval ("Informe um número:")
+Leia (N)
+R <- N%2
+Escolha R
+Caso 0
+   Escreval (N, " é par")
+Caso 1
+   Escreval (N, " é impar")
+fimescolha2
+fimalgoritmo
