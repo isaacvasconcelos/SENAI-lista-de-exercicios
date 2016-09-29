@@ -1,6 +1,6 @@
 algoritmo "semnome"
 // Função :
-// Autor : Pedro Santos de Oliveira
+// Autor : 
 // Data : 29/09/2016
 // Seção de Declarações
 C,q : Inteiro
