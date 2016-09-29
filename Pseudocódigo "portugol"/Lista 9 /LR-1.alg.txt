@@ -1,4 +1,4 @@
-algoritmo "semnome"
+Eualgoritmo "semnome"
 // Função :
 // Autor : Pedro Santos de Oliveira
 // Data : 29/09/2016
