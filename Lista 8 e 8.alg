@@ -1,0 +1,29 @@
+algoritmo "8.8"
+// Função :
+// Autor : Isis e Matheus Teixeira
+// Data : 29/09/2016
+// Seção de Declarações 
+var
+i : inteiro
+nome : vetor [1..20] de caractere
+sal, novosal : vetor [1..20] de real
+inicio
+// Seção de Comandos 
+para i de 1 ate 20 passo 1 faca
+     escreval ("Informe o nome do funcionário:")
+     leia (nome[i])
+     escreval ("Infirne o salário do funcionário:")
+     leia (sal[i])
+     novosal[i] <- sal[i] * 1.08 //acrescimo de 8% no salário
+fimpara
+limpatela
+escreval ("Lista com o nome dos funcionários e seus salário reajustados em 8%:")
+escreval (   )      // ou escreval
+para i de 1 ate 20 passo 1 faca
+escreval ("Funcionário ", i)
+escreval ("Nome ", nome[i])
+escreval ("Novo Salário: ", novosal[i])
+escreval
+        fimpara
+
+fimalgoritmo
