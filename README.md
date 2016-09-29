@@ -9,7 +9,7 @@ src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-S
 <br/>
 
 ## E-mail a ser enviado:
- - thatabat@gmail.com
+ - thatabat@outlook.com
 
 ## Importante:
 
@@ -19,7 +19,7 @@ src="http://www.deconcursos.com.br/wp-content/uploads/2014/01/Cursos-gratuitos-S
 <br/>
 
 ## Para copiar o repositório:
- - Instale a ferramenta chamada Git no seu computador e aprenda como usar.
+ - Instale a ferramenta chamada *Git* no seu computador e aprenda como usar.
 
 ```SENAI
 git clone https://github.com/GiovanniSM20/SENAI-lista-de-exercicios.git
