@@ -28,6 +28,6 @@ git clone https://github.com/GiovanniSM20/SENAI-lista-de-exercicios.git
 
 ## Regras:
 
-  - Todos os arquivos devem estar em .txt e devem estar separadas por questão
+  - Todos os arquivos devem estar em x.txt e devem estar separadas por questão
 
   - Na parte superior do repositório de um ´star´ no repositório e siga os criadores do projeto [GiovanniSM20](https://github.com/GiovanniSM20) e [JotaPe](https://github.com/JotaPe).
